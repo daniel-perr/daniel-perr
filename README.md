@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniel-perr
 - 👀 I’m interested in learning Python and data analysis  
-- 🌱 I’m currently learning data analysis at Bootcamp GIS 
+- 🌱 I’m currently open to work and launch into the next phase of my GIS career
 - 💞️ I’m looking to collaborate on new and exciting GIS projects
 - 📫 How to reach me danielperr@me.com
 
